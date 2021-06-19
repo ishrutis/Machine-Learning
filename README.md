@@ -5,4 +5,4 @@
 - Numpy
 - Pandas
 - Seaborn
-- Matpotlib
+- Matplotlib
