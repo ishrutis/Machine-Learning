@@ -9,7 +9,7 @@ This repository consists of projects of analyzing datasets and predicting accura
 - Boston dataset
 - Diabetes dataset
 - Iris dataset
-**********************************************************************************************************************************************************************************************
+*********************************************************************************************************************************************************************************
 # 1.Predicting results using Linear regression
 (Branch name -Linear_Regression) This is the project of analyzing Boston and Diabetes and predicting results using Linear regression. Steps include data cleaning,analysing and predicting results.
 - Machine Learning (Linear Regression)
