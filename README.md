@@ -2,7 +2,7 @@
 This repository consists of projects of analyzing datasets and predicting accurate results by using different machine learning algorithms. Details about this repository is as follows:-
 
 # Number of projects
-04
+05
 
 # Datasets/Links used
 - Titanic dataset
