@@ -10,6 +10,7 @@ This repository consists of projects of analyzing datasets and predicting accura
 - Diabetes dataset
 - Iris dataset
 - Loan dataset
+- Big
 *********************************************************************************************************************************************************************************
 # 1.Predicting results using Linear regression
 (Branch name -Linear_Regression) This is the project of analyzing Boston and Diabetes and predicting results using Linear regression. Steps include data cleaning,analysing and predicting results.
@@ -46,8 +47,8 @@ This repository consists of projects of analyzing datasets and predicting accura
 - Seaborn
 - Matplotlib
 
-# 5.Full analysis of BigData sales prediction dataset
-(Branch name -Bigdata_sales_analysis) This is the project of analyzing 2013 Sales dataset containing 1559 products across 10 stores in different cities to predict sales of each product at a particular store. It contains analysis of each column and comparing with other columns to extract maximum information about each store. Analysis is done by various charts and graphs to see clarity and loopholes in data. Steps include import libraries, load datset, preprocessing, remove null, log transformation, correlation, label encoding, one hot encoding and splitting data. Finally prediction of 'item outlet sales' is done by using 'Random Forest algorithm' and results has been shown with accuracy, cv score, mean squared error and confusion matrix.
+# 5.Full analysis of BigMart sales prediction dataset
+(Branch name -Bigdata_sales_analysis) This is the project of analyzing 2013 Sales dataset containing 1559 products across 10 stores in different cities to predict sales of each product at a particular store. It contains analysis of each column and comparing with other columns to extract maximum information about each store. Analysis is done by various charts and graphs to see clarity and loopholes in data. Steps include import libraries, load datset, preprocessing, remove null, log transformation, correlation, label encoding, one hot encoding and splitting data. Finally prediction of 'item outlet sales' is done by using 'LASSO Regression' and results has been shown with accuracy, cv score, mean squared error and confusion matrix.
 - Machine Learning (LASSO Regression)
 - Python
 - Numpy
