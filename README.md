@@ -2,7 +2,7 @@
 This repository consists of projects of analyzing datasets and predicting accurate results by using different machine learning algorithms. Details about this repository is as follows:-
 
 # Number of projects
-05
+06
 
 # Datasets/Links used
 - Titanic dataset
@@ -50,6 +50,15 @@ This repository consists of projects of analyzing datasets and predicting accura
 # 5.Full analysis of BigMart sales prediction dataset
 (Branch name -Bigmart_sales_analysis) This is the project of analyzing 2013 Sales dataset containing 1559 products across 10 stores in different cities to predict sales of each product at a particular store. It contains analysis of each column and comparing with other columns to extract maximum information about each store. Analysis is done by various charts and graphs to see clarity and loopholes in data. Steps include import libraries, load datset, preprocessing, remove null, log transformation, correlation, label encoding, one hot encoding and splitting data. Finally prediction of 'item outlet sales' is done by using 'LASSO Regression' and results has been shown with accuracy, cv score, mean squared error and confusion matrix.
 - Machine Learning (LASSO Regression)
+- Python
+- Numpy
+- Pandas
+- Seaborn
+- Matplotlib
+
+# 6.Full analysis of Boston housing prediction dataset
+(Branch name -Boston_housing_analysis) This is the project of analyzing 1978 house prices dataset containing 506 entries with 14 attributes to predict median value of owner-occupied homes in $1000's. It contains analysis of each column and comparing with other columns to extract maximum information about each store. Analysis is done by various charts and graphs to see clarity and loopholes in data. Steps include import libraries, load datset, preprocessing, standarization, correlation, and splitting data. Finally prediction of 'Median value of owner-occupied homes(medv)' is done by using 'XGBoost' and results has been shown with accuracy, cv score and mean squared error.
+- Machine Learning (XGBoost)
 - Python
 - Numpy
 - Pandas
