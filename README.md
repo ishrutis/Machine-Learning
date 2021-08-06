@@ -1,5 +1,5 @@
 # Machine-Learning
-This repository consists of projects of analyzing datasets and predicting accurate results by using different machine learning algorithms. Details about this repository is as follows:-
+This repository consist of projects of analyzing datasets and predicting accurate results by using different machine learning algorithms. Details about this repository is as follows:-
 
 # Number of projects
 06
